@@ -1,0 +1,10 @@
+npm start
+
+> giftlink-backend@1.0.0 start
+> node app.js
+
+2026-09-16T08:30:12.450Z	connected to: mongodb://localhost:27017/giftdb
+2026-09-16T08:30:12.610Z	dropping: giftdb.gifts
+2026-09-16T08:30:12.720Z	16 document(s) imported successfully. 0 document(s) failed to import.
+Server is running on port 3060
+Successfully connected to MongoDB
